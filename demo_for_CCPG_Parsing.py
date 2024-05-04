@@ -114,9 +114,9 @@ if __name__ == '__main__':
     INPUT_PATH = "<path of your dataset>"
     OUTPUT_PATH = "<the output path>"
     batch_size = 16
-    for _id in sorted(os.listdir(INPUT_PATH))[:1]:
-        for _type in sorted(os.listdir(osp.join(INPUT_PATH, _id)))[:1]:
-            for _view in sorted(os.listdir(osp.join(INPUT_PATH, _id, _type)))[:1]:
+    for _id in sorted(os.listdir(INPUT_PATH)):
+        for _type in sorted(os.listdir(osp.join(INPUT_PATH, _id))):
+            for _view in sorted(os.listdir(osp.join(INPUT_PATH, _id, _type))):
                 main(INPUT_PATH, OUTPUT_PATH, _id, _type, _view, batch_size)
                 # print('Processing:', osp.join(INPUT_PATH, _id, _type, _view), ' Done!')
 
