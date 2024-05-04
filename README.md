@@ -1,5 +1,5 @@
 # GaitParsing
-Official code for "GaitParsing: Human Semantic Parsing for Gait Recognition" (IEEE TMM).
+Official code for "[GaitParsing: Human Semantic Parsing for Gait Recognition](https://ieeexplore.ieee.org/document/10288081)" (IEEE TMM).
 
 ## Quick Start
 ### 1. Clone this repo.
