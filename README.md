@@ -36,7 +36,7 @@ Official code for "[GaitParsing: Human Semantic Parsing for Gait Recognition](ht
   
   Waiting for more valuable gait datasets ...
   
-### 4. Download the **pre-trained parsing model** from [Baidu Netdisk](https://pan.baidu.com/s/1G7NlZ4MIKfEHWiTDxZtKXQ?pwd=yyds) and place it in the root.
+### 4. Download the **pre-trained parsing model** from [Baidu Netdisk](https://pan.baidu.com/s/1G7NlZ4MIKfEHWiTDxZtKXQ?pwd=yyds) or [Google Drive](https://drive.google.com/file/d/1GYhzbQmWO80ZsiNO9D0XyuWdD9OjQCJD/view?usp=drive_link) and place it in the root.
   
   ```
   parsing_u2net.pth
