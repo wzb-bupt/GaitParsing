@@ -1,5 +1,11 @@
 # GaitParsing
+
 Official code for "[GaitParsing: Human Semantic Parsing for Gait Recognition](https://ieeexplore.ieee.org/document/10288081)" (IEEE TMM).
+
+<div align="left">
+<a href="https://ieeexplore.ieee.org/document/10288081"><img src="https://img.shields.io/badge/Paper Link-GaitParsing-red"></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wzb-bupt/GaitParsing" alt="Visitors">
+</div>
 
 ## Quick Start
 ### 1. Clone this repo.
